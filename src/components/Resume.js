@@ -5,11 +5,20 @@ export default  class Resume extends Component {
     return (
       <section id="resume">
 
-         <div className="row education">
 
+         <div className="row education">
+         <h1><span>Resume</span></h1>
+         <div className="downloads">
+         <i className="fas fa-download"></i><a href="../public/images/Resume_EmilyRaper.pdf" target="_blank">Download PDF Version</a><br></br>
+         <i className="fas fa-download"></i><a href="fhfh">Download Plain HTML Version</a>
+
+         </div><br></br>
             <div className="three columns header-col">
+
                <h1><span>Education</span></h1>
+
             </div>
+            
 
             <div className="nine columns main-col">
               {
@@ -37,7 +46,7 @@ export default  class Resume extends Component {
          </div>
         <div className="row work">
             <div className="three columns header-col">
-               <h1><span>Work</span></h1>
+               <h1><span>Work Experiences</span></h1>
             </div>
 
             <div className="nine columns main-col">

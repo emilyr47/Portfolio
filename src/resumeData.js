@@ -19,6 +19,18 @@ let resumeData = {
     "aboutme":"Hi, welcome to my portfolio website.  I am currently a senior at the University of Minnesota - Twin Cities, studying technical writing, information technology, and design.  I am interested in creating new and more innovative communication methods and enjoy learning new technologies with which to create those methods.  Aside from technical writing, I have dabbled in web development/design, information and document design, and a variety of web projects using CMS, and templates.  In my spare time, I enjoy running, spending time with friends, and watching action movies and TV shows.",
     "address":"Greater Minneapolis-St. Paul Area",
     "website":"763.381.1098",
+    "downloads":[
+      {
+        "name":"PDF",
+        "url":"https://www.linkedin.com/in/emilyraper/",
+        "className":"fas fa-download"
+      },
+      {
+        "name":"HTML",
+        "url":"https://github.com/emilyr47",
+        "className":"fas fa-download"
+      }
+    ],
     "education":[
       {
         "UniversityName":"University of Minnesota - Twin Cities",
@@ -44,49 +56,49 @@ let resumeData = {
         "specialization":"Web Communications Intern",
         "Start":"Sept. 2019-",
         "End":"Present",
-        "Achievements":"Description Here"
+        "Achievements":"Collaborates within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributes to UX/UI discussions and social media performance analyzation."
       },
       {
         "CompanyName":"University of Minnesota - College of Science and Engineering",
         "specialization":"Educational Technology Developer",
         "Start":"Sept 2019-",
         "End":"Nov 2019",
-        "Achievements":"Description Here"
+        "Achievements":"Collaborated with a team of developers to build startup educational tools primarily using React.js and other in-demand and innovative web technologies. Contributed as both a JavaScript developer and as a UX/UI and logo designer."
       },
       {
         "CompanyName":"Minnesota Historical Society",
         "specialization":"Web Design Intern",
         "Start":"Jun 2019-",
         "End":"Aug 2019",
-        "Achievements":"Description Here"
+        "Achievements":"Improved business intelligence and process improvement through prototyping Scrum/Agile workflow in modern team management tools. Also collaborated with a web team on frontend coding and design projects."
       },
       {
         "CompanyName":"University of Minnesota",
         "specialization":"Technical Writing and Communication Peer Advisor",
         "Start":"Feb 2019-",
         "End":"Aug 2019",
-        "Achievements":"Description Here"
+        "Achievements":"Implemented new ways to digitalize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC."
       },
       {
         "CompanyName":"University of Minnesota",
         "specialization":"Web Technical Assistant/Developer",
         "Start":"Oct 2018-",
         "End":"Aug 2019",
-        "Achievements":"Description Here"
+        "Achievements":"Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Also conducted Drupal training sessions for department web editors and responded to department fix-it requests."
       },
       {
         "CompanyName":"University of Minnesota",
         "specialization":"Web Strategy Communications Assistant",
         "Start":"Sep 2018-",
         "End":"Oct 2018",
-        "Achievements":"Description Here"
+        "Achievements":"Collaborated with a web strategy team to fix bugs, update HTML and CSS code, transfer sites to WordPress, and troubleshoot fix-it requests. Also served as a prompt communicator to those contacting the web strategy team."
       },
       {
         "CompanyName":"Northwestern College",
-        "specialization":"Sennior Associate/Caller",
+        "specialization":"Senior Associate/Caller",
         "Start":"Oct 2017-",
         "End":"May 2018",
-        "Achievements":"Description Here"
+        "Achievements":"Helped with the planning and success of the first annual All-N-Day of Giving and demonstrated leadership and experience on a team of student callers. Professionally communicated with respected college donors and alumni to reach fundraising and marketing goals."
       },
     ],
     "skillsDescription":"Your skills here",
