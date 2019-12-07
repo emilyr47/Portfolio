@@ -54,50 +54,57 @@ let resumeData = {
       {
         "CompanyName":"Lutheran Social Services of Minnesota",
         "specialization":"Web Communications Intern",
-        "Start":"Sept. 2019-",
+        "Start":"Sep 2019 -",
         "End":"Present",
+        "Location":"St. Paul, MN",
         "Achievements":"Collaborates within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributes to UX/UI discussions and social media performance analyzation."
       },
       {
         "CompanyName":"University of Minnesota - College of Science and Engineering",
         "specialization":"Educational Technology Developer",
-        "Start":"Sept 2019-",
+        "Start":"Sep 2019 -",
         "End":"Nov 2019",
+        "Location":"Minneapolis, MN",
         "Achievements":"Collaborated with a team of developers to build startup educational tools primarily using React.js and other in-demand and innovative web technologies. Contributed as both a JavaScript developer and as a UX/UI and logo designer."
       },
       {
         "CompanyName":"Minnesota Historical Society",
         "specialization":"Web Design Intern",
-        "Start":"Jun 2019-",
+        "Start":"Jun 2019 -",
         "End":"Aug 2019",
+        "Location":"St. Paul, MN",
         "Achievements":"Improved business intelligence and process improvement through prototyping Scrum/Agile workflow in modern team management tools. Also collaborated with a web team on frontend coding and design projects."
       },
       {
         "CompanyName":"University of Minnesota",
         "specialization":"Technical Writing and Communication Peer Advisor",
-        "Start":"Feb 2019-",
+        "Start":"Feb 2019 -",
         "End":"Aug 2019",
+        "Location":"Minneapolis, MN",
         "Achievements":"Implemented new ways to digitalize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC."
       },
       {
         "CompanyName":"University of Minnesota",
         "specialization":"Web Technical Assistant/Developer",
-        "Start":"Oct 2018-",
+        "Start":"Oct 2018 -",
         "End":"Aug 2019",
+        "Location":"Minneapolis, MN",
         "Achievements":"Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Also conducted Drupal training sessions for department web editors and responded to department fix-it requests."
       },
       {
         "CompanyName":"University of Minnesota",
         "specialization":"Web Strategy Communications Assistant",
-        "Start":"Sep 2018-",
+        "Start":"Sep 2018 -",
         "End":"Oct 2018",
+        "Location":"Minneapolis, MN",
         "Achievements":"Collaborated with a web strategy team to fix bugs, update HTML and CSS code, transfer sites to WordPress, and troubleshoot fix-it requests. Also served as a prompt communicator to those contacting the web strategy team."
       },
       {
         "CompanyName":"Northwestern College",
         "specialization":"Senior Associate/Caller",
-        "Start":"Oct 2017-",
+        "Start":"Oct 2017 -",
         "End":"May 2018",
+        "Location":"Orange City, IA",
         "Achievements":"Helped with the planning and success of the first annual All-N-Day of Giving and demonstrated leadership and experience on a team of student callers. Professionally communicated with respected college donors and alumni to reach fundraising and marketing goals."
       },
     ],

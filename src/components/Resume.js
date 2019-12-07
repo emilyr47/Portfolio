@@ -9,7 +9,7 @@ export default  class Resume extends Component {
          <div className="row education">
          <h1><span>Resume</span></h1>
          <div className="downloads">
-         <i className="fas fa-download"></i><a href="../public/images/Resume_EmilyRaper.pdf" target="_blank">Download PDF Version</a><br></br>
+         <i className="fas fa-download"></i><a href="images/Resume_EmilyRaper.pdf" target="_blank">Download PDF Version</a><br></br>
          <i className="fas fa-download"></i><a href="fhfh">Download Plain HTML Version</a>
 
          </div><br></br>
@@ -58,7 +58,8 @@ export default  class Resume extends Component {
                           <h3>{item.CompanyName}</h3>
                           <p className="info">
                           {item.specialization}
-                          <span>&bull;</span> <em className="date">{item.Start} {item.End}</em></p>
+                          <span>&bull;</span> <em className="date">{item.Start} {item.End}<span>&bull;</span>{item.Location}</em></p>
+
                           <p>
                           {item.Achievements}
                           </p>
