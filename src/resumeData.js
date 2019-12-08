@@ -128,25 +128,68 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"",
+        "name":"FINDO",
+        "description":"A state fair themed bingo game powered by React.js and CSS Doodle",
+        "projecturl":"View Project",
+        "repourl":"https://github.com/emilyr47/findo-app-1",
+        "imgurl":"images/findo.png"
+      },
+      {
+        "name":"Doenet",
+        "description":"Doenet is Learning Management System powered by React.js and PHP.  It is an on-going project being developed by a team within the School of Mathematics at the University of Minnesota.  ",
         "imgurl":""
       },
       {
-        "name":"project2",
-        "description":"",
+        "name":"Project Resume",
+        "description":"This is a job application tracking app powered by JavaScript and Node.js.  The app saves your most recent job applications in its database and then proceeds to remind users when to follow up with potential employers.  The app also provides job openings using the GitHub Job's API.",  
         "imgurl":""
       },
       {
-        "name":"project3",
+        "name":"Friend's Game",
+        "description":"This is a memory game powered by React.js.  The goal of the game is to remember which Friends characters you have clicked on and to see how long you can last.  The game keeps score for you.",
+        "imgurl":""
+      }
+    ],
+    "portfolio2":[
+      {
+        "name":"Re-Design Report of Yale University Webpage",
+        "description":"Report written on a project, in which I re-designed the Yale University art page.  Report talks about UX/UI design strategies, style guides, and branding.",
+        "imgurl":""
+      },
+      {
+        "name":"Instruction Manual for Great White Shark Lego Model",
+        "description":"Instruction for the set up and building of a great white shark using traditional legos.  Information about pieces included, set up instructions, and safety measured included.",  
+        "imgurl":""
+      },
+      {
+        "name":"project6",
         "description":"",  
         "imgurl":""
       },
       {
-        "name":"project4",
-        "description":"",
+        "name":"project7",
+        "description":"",  
         "imgurl":""
       }
+    ],
+
+    "portfolio3":[
+      {
+        "name":"project8",
+        "description":"",  
+        "imgurl":""
+      },
+      {
+        "name":"project9",
+        "description":"",  
+        "imgurl":""
+      },
+      {
+        "name":"project10",
+        "description":"",  
+        "imgurl":""
+      },
+
     ],
     "testimonials":[
       {
