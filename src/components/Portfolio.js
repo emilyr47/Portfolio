@@ -24,7 +24,35 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
+                  <ul className="social">
+                  {
+                    resumeData.projectLinks && resumeData.projectLinks.map(item =>{
+                      return(
+                              <li key={item.name}>
+                                <a href={item.url} target="_blank"><i className={item.className}>View Project</i></a>
+                                
+                              </li>
+                            )
+                          }
+                    )
+                  }
+               {/* </ul>
+                  <ul className="social"> */}
+                  {
+                    resumeData.codeLinks && resumeData.codeLinks.map(item =>{
+                      return(
+                              <li key={item.name}>
+                                <a href={item.url} target="_blank"><i className={item.className}>View Code</i></a>
+                                
+                              </li>
+                            )
+                          }
+                    )
+                  }
+               </ul>
                 </div>
+                
+
               )
             })
           }
@@ -49,7 +77,32 @@ export default class Porfolio extends Component {
                         </div>
                       </div>
                     </a>
-                  </div>
+                  </div><ul className="social">
+                  {
+                    resumeData.projectLinks && resumeData.projectLinks.map(item =>{
+                      return(
+                              <li key={item.name}>
+                                <a href={item.url} target="_blank"><i className={item.className}>View Project</i></a>
+                                
+                              </li>
+                            )
+                          }
+                    )
+                  }
+               {/* </ul>
+                  <ul className="social"> */}
+                  {
+                    resumeData.codeLinks && resumeData.codeLinks.map(item =>{
+                      return(
+                              <li key={item.name}>
+                                <a href={item.url} target="_blank"><i className={item.className}>View Code</i></a>
+                                
+                              </li>
+                            )
+                          }
+                    )
+                  }
+               </ul>
                 </div>
               )
             })
@@ -77,6 +130,32 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
+                  <ul className="social">
+                  {
+                    resumeData.projectLinks && resumeData.projectLinks.map(item =>{
+                      return(
+                              <li key={item.name}>
+                                <a href={item.url} target="_blank"><i className={item.className}>View Project</i></a>
+                                
+                              </li>
+                            )
+                          }
+                    )
+                  }
+               {/* </ul>
+                  <ul className="social"> */}
+                  {
+                    resumeData.codeLinks && resumeData.codeLinks.map(item =>{
+                      return(
+                              <li key={item.name}>
+                                <a href={item.url} target="_blank"><i className={item.className}>View Code</i></a>
+                                
+                              </li>
+                            )
+                          }
+                    )
+                  }
+               </ul>
                 </div>
               )
             })

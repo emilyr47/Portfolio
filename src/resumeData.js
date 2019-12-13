@@ -126,17 +126,31 @@ let resumeData = {
         "skillname":"Adobe Creative Cloud Suite"
       },
     ],
+    "projectLinks":[
+      {
+        "name":"FINDO",
+        "url":"https://play.findo.games/",
+        "className":"findo"
+      },
+
+
+    ],
+    "codeLinks":[
+      {
+        "name":"FINDO",
+        "url":"https://github.com/emilyr47/findo-app-1",
+        "className":"portbtn"
+      },
+    ],
     "portfolio":[
       {
         "name":"FINDO",
         "description":"A state fair themed bingo game powered by React.js and CSS Doodle",
-        "projecturl":"View Project",
-        "repourl":"https://github.com/emilyr47/findo-app-1",
         "imgurl":"images/findo.png"
       },
       {
         "name":"Doenet",
-        "description":"Doenet is Learning Management System powered by React.js and PHP.  It is an on-going project being developed by a team within the School of Mathematics at the University of Minnesota.  ",
+        "description":"Doenet is Learning Management System powered by React.js and PHP.  It is an on-going project being developed by a team within the School of Mathematics at the University of Minnesota.",
         "imgurl":"images/doenet.png"
       },
       {

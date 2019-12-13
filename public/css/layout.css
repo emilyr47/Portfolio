@@ -551,13 +551,13 @@ ul#nav li.current a { color: #45A29E; }
 
 /* on hover */
 .portfolio-item:hover .overlay {
-	opacity: 1;
-	-moz-opacity: 1;
+	opacity: 15;
+	-moz-opacity: 15;
 	filter:alpha(opacity=100);
 }
 .portfolio-item:hover .link-icon {
-   opacity: 1;
-	-moz-opacity: 1;
+   opacity: 15;
+	-moz-opacity: 15;
 	filter:alpha(opacity=100);
 }
 
