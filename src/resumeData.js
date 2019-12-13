@@ -137,68 +137,73 @@ let resumeData = {
       {
         "name":"Doenet",
         "description":"Doenet is Learning Management System powered by React.js and PHP.  It is an on-going project being developed by a team within the School of Mathematics at the University of Minnesota.  ",
-        "imgurl":""
+        "imgurl":"images/doenet.png"
       },
       {
         "name":"Project Resume",
         "description":"This is a job application tracking app powered by JavaScript and Node.js.  The app saves your most recent job applications in its database and then proceeds to remind users when to follow up with potential employers.  The app also provides job openings using the GitHub Job's API.",  
-        "imgurl":""
+        "imgurl":"images/projectresume.png"
       },
       {
         "name":"Friend's Game",
         "description":"This is a memory game powered by React.js.  The goal of the game is to remember which Friends characters you have clicked on and to see how long you can last.  The game keeps score for you.",
-        "imgurl":""
+        "imgurl":"images/friends.png"
       }
     ],
     "portfolio2":[
       {
-        "name":"Re-Design Report of Yale University Webpage",
-        "description":"Report written on a project, in which I re-designed the Yale University art page.  Report talks about UX/UI design strategies, style guides, and branding.",
-        "imgurl":""
+        "name":"Internship Report",
+        "description":"Report written based on internship completed Fall 2019.",
+        "imgurl":"images/internship.png"
       },
       {
         "name":"Instruction Manual for Great White Shark Lego Model",
         "description":"Instruction for the set up and building of a great white shark using traditional legos.  Information about pieces included, set up instructions, and safety measured included.",  
-        "imgurl":""
+        "imgurl":"images/shark.png"
       },
       {
-        "name":"project6",
-        "description":"",  
-        "imgurl":""
+        "name":"Yale Web Design Report",
+        "description":"Report written to document the process of a web design project.",  
+        "imgurl":"images/intro.png"
       },
       {
-        "name":"project7",
-        "description":"",  
-        "imgurl":""
+        "name":"Blue Light Research Report",
+        "description":"Research report that examines the effects blue light has on a person's sleep cycle and overall health.",  
+        "imgurl":"images/bluelight.png"
       }
     ],
 
     "portfolio3":[
       {
-        "name":"project8",
-        "description":"",  
-        "imgurl":""
+        "name":"Pillsbury Hall Renovation Website",
+        "description":"Subsite of the College of Liberal Arts, UMN website.  Created using Drupal 7.",  
+        "imgurl":"images/pills.png"
       },
       {
-        "name":"project9",
-        "description":"",  
-        "imgurl":""
+        "name":"College of Liberal Arts, UMN 150th Year Magazine",
+        "description":"Digital version of the CLA 150th Anniversary Magazine.  Created using Drupal 7.",  
+        "imgurl":"images/claMag.png"
       },
       {
-        "name":"project10",
-        "description":"",  
-        "imgurl":""
+        "name":"ShareMarq Site Revamp",
+        "description":"Redo of ShareMarq's website and re-organization of site content.  Created using WIX.",  
+        "imgurl":"images/wix.png"
+      },
+      {
+        "name":"Major Minor Expo Infographic",
+        "description":"Infographic created for Spring 2019 Major Minor Expo",  
+        "imgurl":"images/major.png"
       },
 
     ],
     "testimonials":[
       {
-        "description":"",
-        "name":""
+        "description":"I worked alongside Emily in a large scale Web Development project and she was a fantastic person to work with. She excels at Front End dev and has a knack for great design. Easy to work with and great personality - can't recommend her enough!",
+        "name":"Samuel Reimann, Full Stack Developer"
       },
       {
-        "description":"",
-        "name":""
+        "description":"It is seldom in my career I have had the opportunity to work with a professional of Emily's caliber. Her clear, concise and articulate recommendations where followed her action to complete exactly what she indicated would benefit our brand across the wide spectrum of our business. Emily has a depth of knowledge, exceptional skill set(s) and an understanding of the current modern digital workplace presented in her work and presentations. Without reservation I recommend Emily for any opportunity she is pursuing today and it the future.",
+        "name":"Dave Hall, Chief Digital Officer (CDO) at SharemarQ, Inc"
       }
     ]
   }
