@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -334,32 +334,38 @@ ul#nav li.current a { color: #45A29E; }
 
 .photoshop {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
+   -moz-animation: photoshop 2s ease;
+   animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .illustrator {
   	width: 55%;
-  	-moz-animation: illustrator 2s ease;
+     -moz-animation: illustrator 2s ease;
+     animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
+     -moz-animation: wordpress 2s ease;
+     animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
   	width: 90%;
-  	-moz-animation: css 2s ease;
+     -moz-animation: css 2s ease;
+     animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
+     -moz-animation: html5 2s ease;
+     animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
+     -moz-animation: jquery 2s ease;
+     animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
@@ -367,26 +373,61 @@ ul#nav li.current a { color: #45A29E; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
+
+@keyframes photoshop {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
+
+@keyframes illustrator {
+   0%   { width: 0px;  }
+   100% { width: 55%;  }
+ }
+
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+
+@keyframes wordpress {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+
 @-moz-keyframes css {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
+
+@keyframes css {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+ }
+
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
+
+@keyframes html5 {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+ }
+
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+
+@keyframes jquery {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
 
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
@@ -770,7 +811,7 @@ call-to-action .button {
 .flexslider .slides > li { position: relative; }
 
 /* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
+.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; backface-visibility: hidden; }
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container { zoom: 1; position: relative; }
 
@@ -886,7 +927,6 @@ call-to-action .button {
    margin: 12px 0;
    color: #EBEEEE;
 	display: inline-block;
-	float: left;
    width: 26%;
 }
 #contact input,

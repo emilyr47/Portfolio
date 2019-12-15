@@ -29,7 +29,7 @@ export default class Porfolio extends Component {
                     resumeData.projectLinks && resumeData.projectLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}>View Project</i></a>
+                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Project</i></a>
                                 
                               </li>
                             )
@@ -42,7 +42,7 @@ export default class Porfolio extends Component {
                     resumeData.codeLinks && resumeData.codeLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}>View Code</i></a>
+                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Code</i></a>
                                 
                               </li>
                             )
@@ -82,7 +82,7 @@ export default class Porfolio extends Component {
                     resumeData.projectLinks && resumeData.projectLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}>View Project</i></a>
+                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Project</i></a>
                                 
                               </li>
                             )
@@ -95,7 +95,7 @@ export default class Porfolio extends Component {
                     resumeData.codeLinks && resumeData.codeLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}>View Code</i></a>
+                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Code</i></a>
                                 
                               </li>
                             )
@@ -135,7 +135,7 @@ export default class Porfolio extends Component {
                     resumeData.projectLinks && resumeData.projectLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}>View Project</i></a>
+                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Project</i></a>
                                 
                               </li>
                             )
@@ -148,7 +148,7 @@ export default class Porfolio extends Component {
                     resumeData.codeLinks && resumeData.codeLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}>View Code</i></a>
+                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Code</i></a>
                                 
                               </li>
                             )
