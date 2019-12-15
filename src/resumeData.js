@@ -47,7 +47,6 @@ let resumeData = {
         "minor":"The Coding Bootcamp",  
         "GraduationMonth":"July",
         "GraduationYear":"2019",
-        "Achievements":"https://umn.credly.com/member-badges/19394878"
       }
     ],
     "work":[

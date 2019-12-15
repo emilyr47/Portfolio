@@ -42,6 +42,8 @@ export default  class Resume extends Component {
                   )
                 })
               }
+                                        <i className="fas fa-download"></i><a href="https://umn.credly.com/member-badges/19394878" target="_blank" rel="noopener noreferrer">View Credential</a><br></br>
+
             </div>
          </div>
         <div className="row work">
@@ -62,7 +64,9 @@ export default  class Resume extends Component {
 
                           <p>
                           {item.Achievements}
+                          
                           </p>
+                          
                        </div>
 
                     </div>
