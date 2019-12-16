@@ -14,42 +14,27 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    {/* <a href="#modal-01"> */}
                       <img src={`${item.imgurl}`} className="item-img" alt=""/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
+                         
+
+                          {/* <button src={`${item.projecturl}`} className="portbtn" alt="">View Project</button>
+                          <button src={`${item.repourl}`} className="portbtn" alt="">View Code</button> */}
+
+
                         </div>
+                        
                       </div>
-                    </a>
+                      
+                    {/* </a> */}
                   </div>
-                  <ul className="social">
-                  {
-                    resumeData.projectLinks && resumeData.projectLinks.map(item =>{
-                      return(
-                              <li key={item.name}>
-                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Project</i></a>
-                                
-                              </li>
-                            )
-                          }
-                    )
-                  }
-               {/* </ul>
-                  <ul className="social"> */}
-                  {
-                    resumeData.codeLinks && resumeData.codeLinks.map(item =>{
-                      return(
-                              <li key={item.name}>
-                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Code</i></a>
-                                
-                              </li>
-                            )
-                          }
-                    )
-                  }
-               </ul>
+                  <i className="fas fa-download"></i><a href={`${item.projecturl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                          <i className="fas fa-download"></i><a href={`${item.repourl}`} target="_blank" rel="noopener noreferrer">View Code</a><br></br>
+
                 </div>
                 
 
@@ -68,48 +53,36 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    {/* <a href="#modal-01"> */}
                       <img src={`${item.imgurl}`} className="item-img" alt=""/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
                         </div>
+
+                        
                       </div>
-                    </a>
-                  </div><ul className="social">
-                  {
-                    resumeData.projectLinks && resumeData.projectLinks.map(item =>{
-                      return(
-                              <li key={item.name}>
-                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Project</i></a>
-                                
-                              </li>
-                            )
-                          }
-                    )
-                  }
-               {/* </ul>
-                  <ul className="social"> */}
-                  {
-                    resumeData.codeLinks && resumeData.codeLinks.map(item =>{
-                      return(
-                              <li key={item.name}>
-                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Code</i></a>
-                                
-                              </li>
-                            )
-                          }
-                    )
-                  }
-               </ul>
+
+                    {/* </a> */}
+
+                    
+                  </div>
+                  <i className="fas fa-download"></i><a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">Download PDF Project</a><br></br>
+
+                  
                 </div>
+                
+                
               )
             })
+            
           }
+          
           </div>
         </div>
       </div>
+      
       <div className="row">
         <div className="twelve columns collapsed">
           <h2>Information and Graphic Design</h2><br></br>
@@ -119,7 +92,7 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    {/* <a href="#modal-01"> */}
                       <img src={`${item.imgurl}`} className="item-img" alt=""/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
@@ -128,35 +101,12 @@ export default class Porfolio extends Component {
                           <p></p>
                         </div>
                       </div>
-                    </a>
+                    {/* </a> */}
                   </div>
-                  <ul className="social">
-                  {
-                    resumeData.projectLinks && resumeData.projectLinks.map(item =>{
-                      return(
-                              <li key={item.name}>
-                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Project</i></a>
-                                
-                              </li>
-                            )
-                          }
-                    )
-                  }
-               {/* </ul>
-                  <ul className="social"> */}
-                  {
-                    resumeData.codeLinks && resumeData.codeLinks.map(item =>{
-                      return(
-                              <li key={item.name}>
-                                <a href={item.url} target="_blank" rel="noopener noreferrer"><i className={item.className}>View Code</i></a>
-                                
-                              </li>
-                            )
-                          }
-                    )
-                  }
-               </ul>
+                  <i className="fas fa-download"></i><a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+
                 </div>
+                
               )
             })
           }
