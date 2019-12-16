@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"",
-    "name": "Emily Raper",
-    "role": "Developer, Technical Writer, and Designer passionate about UX/UI and innovative communication",
+    "name": "Developer, Designer, and Writer",
+    "role": "Passionate about UX/UI and innovative communication",
     "linkedinId":"Your LinkedIn Id",
     "roleDescription": "",
     "socialLinks":[
