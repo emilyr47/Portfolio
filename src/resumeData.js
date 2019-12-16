@@ -107,7 +107,7 @@ let resumeData = {
         "Achievements":"Helped with the planning and success of the first annual All-N-Day of Giving and demonstrated leadership and experience on a team of student callers. Professionally communicated with respected college donors and alumni to reach fundraising and marketing goals."
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML"
@@ -167,7 +167,7 @@ let resumeData = {
         "name":"Instruction Manual for Great White Shark Lego Model",
         "description":"Instruction for the set up and building of a great white shark using traditional legos.  Information about pieces included, set up instructions, and safety measured included.",  
         "imgurl":"images/shark.png",
-        "pdfurl":"images/internreport.pdf"
+        "pdfurl":"images/shark.doc"
 
       },
       {

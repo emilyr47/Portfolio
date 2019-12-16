@@ -68,7 +68,7 @@ export default class Porfolio extends Component {
 
                     
                   </div>
-                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">Download PDF Project</a><br></br>
+                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">Download Project</a><br></br>
 
                   
                 </div>
