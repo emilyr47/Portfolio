@@ -137,17 +137,23 @@ let resumeData = {
       {
         "name":"Doenet",
         "description":"Doenet is Learning Management System powered by React.js and PHP.  It is an on-going project being developed by a team within the School of Mathematics at the University of Minnesota.",
-        "imgurl":"images/doenet.png"
+        "imgurl":"images/doenet.png",
+        "projecturl":"https://emilyr47.github.io/Doenet/",
+        "repourl":"https://github.com/emilyr47/Doenet"
       },
       {
         "name":"Project Resume",
         "description":"This is a job application tracking app powered by JavaScript and Node.js.  The app saves your most recent job applications in its database and then proceeds to remind users when to follow up with potential employers.  The app also provides job openings using the GitHub Job's API.",  
-        "imgurl":"images/projectresume.png"
+        "imgurl":"images/projectresume.png",
+        "projecturl":"http://project-resume-1.herokuapp.com/",
+        "repourl":"https://github.com/emilyr47/projectResume"
       },
       {
         "name":"Friend's Game",
         "description":"This is a memory game powered by React.js.  The goal of the game is to remember which Friends characters you have clicked on and to see how long you can last.  The game keeps score for you.",
-        "imgurl":"images/friends.png"
+        "imgurl":"images/friends.png",
+        "projecturl":"https://emilyr47.github.io/clicky-game/",
+        "repourl":"https://github.com/emilyr47/clicky-game"
       }
     ],
     "portfolio2":[

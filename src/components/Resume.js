@@ -9,8 +9,8 @@ export default  class Resume extends Component {
          <div className="row education">
          <h1><span>Resume</span></h1>
          <div className="downloads">
-         <i className="fas fa-download"></i><a href="images/Resume_EmilyRaper.pdf" target="_blank">Download PDF Version</a><br></br>
-         <i className="fas fa-download"></i><a href="fhfh">Download Plain HTML Version</a>
+         <a href="images/Resume_EmilyRaper.pdf" target="_blank">Download PDF Version</a><br></br>
+         <a href="images/plainresume.txt" target="_blank">View Plain Text Version</a>
 
          </div><br></br>
             <div className="three columns header-col">
@@ -42,7 +42,7 @@ export default  class Resume extends Component {
                   )
                 })
               }
-                                        <i className="fas fa-download"></i><a href="https://umn.credly.com/member-badges/19394878" target="_blank" rel="noopener noreferrer">View Credential</a><br></br>
+                                        <a href="https://umn.credly.com/member-badges/19394878" target="_blank" rel="noopener noreferrer">View Credential</a><br></br>
 
             </div>
          </div>

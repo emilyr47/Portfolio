@@ -32,8 +32,8 @@ export default class Porfolio extends Component {
                       
                     {/* </a> */}
                   </div>
-                  <i className="fas fa-download"></i><a href={`${item.projecturl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
-                          <i className="fas fa-download"></i><a href={`${item.repourl}`} target="_blank" rel="noopener noreferrer">View Code</a><br></br>
+                  <a href={`${item.projecturl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                          <a href={`${item.repourl}`} target="_blank" rel="noopener noreferrer">View Code</a><br></br>
 
                 </div>
                 
@@ -68,7 +68,7 @@ export default class Porfolio extends Component {
 
                     
                   </div>
-                  <i className="fas fa-download"></i><a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">Download PDF Project</a><br></br>
+                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">Download PDF Project</a><br></br>
 
                   
                 </div>
@@ -103,7 +103,7 @@ export default class Porfolio extends Component {
                       </div>
                     {/* </a> */}
                   </div>
-                  <i className="fas fa-download"></i><a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                  <a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
 
                 </div>
                 
