@@ -79,24 +79,50 @@ export default  class Resume extends Component {
 
 
          <div className="row skill">
+         <div class="container vertical-divider">
+  <div class="column one-third">
+  <h1><span>Skills </span></h1><br></br>
+  </div>
 
+</div>
+
+<div class="container vertical-divider">
+  <div class="column one-third">
+    <h3>Top Web Skills</h3>
+    <p>-HTML<br></br>-CSS<br></br>-JavaScript<br></br>-React.js<br></br>-Node.js<br></br>-XML &amp; DITA<br></br>-Scrum &amp; Agile</p>
+  </div>
+  <div class="column one-third">
+    <h3>Software Skills</h3>
+    <p>-Adobe Creative Cloud Suite (most experienced in Photoshop, InDesign, Framemaker, &amp; Illustrator)<br></br>-Drupal<br></br>-Trello, JIRA, &amp; Asana<br></br>-Google Analytics &amp; Google Data Studio<br></br>-ServiceNow &amp; Kace<br></br>-Wordpress, WIX, &amp; SquareSpace<br></br>-Microsoft Office Suite</p>
+  </div>
+  <div class="column one-third">
+    <h3>Soft Skills</h3>
+    <p>-Project &amp; goal oriented<br></br>-Self-motivated worker<br></br>-Organized leader<br></br>-Collaborator &amp; innovator<br></br>-Writer &amp; communicator<br></br>-Problem solver<br></br>-End user focused</p>
+  </div>
+</div>
+
+         </div>
+         
+ {/* <div className="row skill">
             <div className="three columns header-col">
-               <h1><span>Skills </span></h1><br></br>
                <h4>Top Web Skills</h4>
                <p>-HTML<br></br>-CSS<br></br>-JavaScript<br></br>-React.js<br></br>-Node.js<br></br>-XML &amp; DITA<br></br>-Scrum &amp; Agile</p>
             </div>
-            <h1><span></span></h1><br></br><br></br>
               <div className="three columns header-col">
-            <h4>Software Skills</h4>
-               <p>-Adobe Creative Cloud Suite (most experienced in Photoshop, <br></br>InDesign, Framemaker, &amp; Illustrator)<br></br>-Drupal<br></br>-Trello, JIRA, &amp; Asana<br></br>-Google Analytics &amp; Google Data Studio<br></br>-ServiceNow &amp; Kace<br></br>-Wordpress, WIX, &amp; SquareSpace<br></br>-Microsoft Office Suite</p>
+              <h4 >Software Skills</h4>
+               <p>-Adobe Creative Cloud Suite (most experienced in Photoshop, InDesign, Framemaker, &amp; Illustrator)<br></br>-Drupal<br></br>-Trello, JIRA, &amp; Asana<br></br>-Google Analytics &amp; Google Data Studio<br></br>-ServiceNow &amp; Kace<br></br>-Wordpress, WIX, &amp; SquareSpace<br></br>-Microsoft Office Suite</p>
                
                </div> 
+               <div className="three columns header-col">
+
                <h4>Soft Skills</h4>
                <p>-Project &amp; goal oriented<br></br>-Self-motivated worker<br></br>-Organized leader<br></br>-Collaborator &amp; innovator<br></br>-Writer &amp; communicator<br></br>-Problem solver<br></br>-End user focused</p>
-         </div>
+        </div>
+         </div>  */}
          
 
       </section>
+      
     );
   }
 }
