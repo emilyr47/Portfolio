@@ -759,8 +759,16 @@ call-to-action .button {
 /* ------------------------------------------------------------------
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
+#blogbtn {
+   margin-left: 1000px;
+   border-bottom: 10px;
+   font-size: 24px;
+}
 
-#testimonials {
+#blog-title {
+   color: #fff;
+}
+#testimonials, #blog {
    background: #1F2833 url(../images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
@@ -771,18 +779,18 @@ call-to-action .button {
    width: 100%;
    overflow: hidden;
 }
-#testimonials .text-container {
+#testimonials .text-container, #blog .text-container {
    padding-top: 96px;
    padding-bottom: 66px;
 }
-#testimonials h1 {
+#testimonials h1, #blog h1 {
    font: 18px/24px 'opensans-bold', sans-serif;   
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
 }
-#testimonials h1 span { display: none; }
-#testimonials .header-col { padding-top: 9px; }
+#testimonials h1 span, #blog h1 span { display: none; }
+#testimonials .header-col, #blog .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
@@ -795,30 +803,30 @@ call-to-action .button {
 }
 
 /*	Blockquotes */
-#testimonials blockquote {
+#testimonials blockquote, #blog blockquote {
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
 }
-#testimonials blockquote:before { content: none; }
-#testimonials blockquote p {
+#testimonials blockquote:before, #blog blockquote:before, { content: none; }
+#testimonials blockquote p, #blog blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
    color: #fff
 }
-#testimonials blockquote cite {
+#testimonials blockquote cite, #blog blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
    color: #fff;
 }
-#testimonials blockquote cite:before { content: "\2014 \0020"; }
-#testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite:before, #blog blockquote cite:before { content: "\2014 \0020"; }
+#testimonials blockquote cite a, #blog blockquote cite a,
+#testimonials blockquote cite a:visited, #blog blockquote cite a:visited { color: #8B9798; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */

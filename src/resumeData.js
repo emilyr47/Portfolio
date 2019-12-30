@@ -30,6 +30,20 @@ let resumeData = {
         "className":"fas fa-download"
       }
     ],
+
+    "blog":[
+      {
+        "description":"As you know, I am pursuing a degree in Technical Writing currently.  One of the challenges I have found when it comes to explaining my degree is that there is not a very well defined definition for what a technical writer does.  It’s not something like nursing where people immediately place you in a hospital caring for patients or a lawyer where everyone recalls images of Judge Judy and large paychecks (both very much stereotypes and not always the reality…..)",
+        "name":"What is Technical Writing",
+        "imgurl":"images/techwrit.png"
+      },
+      {
+        "description":"It’s kind of like a dump in the sky where everyone puts their stuff…The cloud is basically a storage unit for the internet…What the cloud actually is, is something smart that I don’t think I can understand…",
+        "name":"What Do People Really Think the Cloud is?",
+        "imgurl":"images/cloud.png",
+      }
+    ],
+
     "education":[
       {
         "UniversityName":"University of Minnesota - Twin Cities",
