@@ -16,9 +16,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Hi, welcome to my portfolio website.  I am currently a senior at the University of Minnesota - Twin Cities, studying technical writing, information technology, and design.  I am interested in creating new and more innovative communication methods and enjoy learning new technologies with which to create those methods.  Aside from technical writing, I have dabbled in web development/design, information and document design, and a variety of web projects using CMS, and templates.  In my spare time, I enjoy running, spending time with friends, and watching action movies and TV shows.",
-    "address":"Greater Minneapolis-St. Paul Area",
-    "website":"763.381.1098",
+    "aboutme":"Hi, my name is Emily, and welcome to my portfolio website.  I am currently a senior at the University of Minnesota - Twin Cities, studying technical writing, information technology, and design.  I am interested in creating new and more innovative communication methods and enjoy learning new technologies with which to create those methods.  Aside from technical writing, I have dabbled in web development/design, information and document design, and a variety of web projects using CMS, and templates.  In my spare time, I enjoy running, spending time with friends, and watching action movies and TV shows.",
+
     "downloads":[
       {
         "name":"PDF",
@@ -39,7 +38,7 @@ let resumeData = {
         "GraduationMonth":"May",
         "GraduationYear":"2020",
         "GPA":"GPA: 3.7",
-        "Achievements":"Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 20219, Victoria Mikelonis Undergragudate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019"
+        "Achievements":"Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 2019, Victoria Mikelonis Undergraduate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019"
       },
       {
         "UniversityName":"University of Minnesota - College of Continuing and Professional Studies",
@@ -54,7 +53,7 @@ let resumeData = {
         "CompanyName":"Lutheran Social Services of Minnesota",
         "specialization":"Web Communications Intern",
         "Start":"Sep 2019 -",
-        "End":"Present",
+        "End":"Dec 2019",
         "Location":"St. Paul, MN",
         "Achievements":"Collaborates within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributes to UX/UI discussions and social media performance analyzation."
       },
