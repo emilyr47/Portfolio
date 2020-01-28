@@ -38,7 +38,7 @@ export default class Blog extends Component {
             </div> {/* div.flex-container ends */}
           </div> {/* row ends */}
         </div>  {/* text-container ends */}
-        <a href="https://authorscanvas.blog/" id="blogbtn" rel="noopener noreferrer "target="_blank">View Blog ></a><br></br><br></br><br></br>
+        <a href="https://authorscanvas.blog/" id="blogbtn" rel="noopener noreferrer "target="_blank">View Blog</a><br></br><br></br><br></br>
 
       </section>
       

@@ -10,7 +10,7 @@ export default  class Resume extends Component {
          <h1><span>Resume</span></h1>
          <div className="downloads">
          <a href="images/Resume_EmilyRaper.pdf" target="_blank">Download PDF Version</a><br></br>
-         <a href="images/plainresume.txt" target="_blank">View Plain Text Version</a>
+         <a href="images/plaintext.txt" target="_blank">View Plain Text Version</a>
 
          </div><br></br>
             <div className="three columns header-col">

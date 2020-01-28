@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Developer, Designer, and Writer",
-    "role": "Passionate about UX/UI and innovative communication",
+    "role": "Organized developer, designer, and technical writer passionate about intuitive web technologies, applications, and innovative communication",
     "linkedinId":"Your LinkedIn Id",
     "roleDescription": "",
     "socialLinks":[
@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Hi, my name is Emily, and welcome to my portfolio website.  I am currently a senior at the University of Minnesota - Twin Cities, studying technical writing, information technology, and design.  I am interested in creating new and more innovative communication methods and enjoy learning new technologies with which to create those methods.  Aside from technical writing, I have dabbled in web development/design, information and document design, and a variety of web projects using CMS, and templates.  In my spare time, I enjoy running, spending time with friends, and watching action movies and TV shows.",
+    "aboutme":"Hi, my name is Emily, and welcome to my portfolio website.  I am currently a senior at the University of Minnesota - Twin Cities, studying technical writing, information technology, and design.  I am interested in creating new and more innovative communication methods and enjoy learning new technologies to enhance those methods.  Aside from technical writing, I also have significant experience in in web development/design, information and document design, and a variety of web projects using CMS, and templates.  In my spare time, I enjoy running, spending time with friends, and watching action movies and TV shows.",
 
     "downloads":[
       {
@@ -69,7 +69,7 @@ let resumeData = {
         "Start":"Sep 2019 -",
         "End":"Dec 2019",
         "Location":"St. Paul, MN",
-        "Achievements":"Collaborates within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributes to UX/UI discussions and social media performance analyzation."
+        "Achievements":"Collaborated within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributed to UX/UI discussions and social media performance analyzation."
       },
       {
         "CompanyName":"University of Minnesota - College of Science and Engineering",
