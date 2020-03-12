@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepage": "http://emilyr47.github.io/portfolio",
+  "homepage": "https://emilyr47.github.io/portfolio",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
