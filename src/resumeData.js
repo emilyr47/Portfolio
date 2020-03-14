@@ -69,7 +69,7 @@ let resumeData = {
         "Start":"Jan 2020 -",
         "End":"Present",
         "Location":"Minneapolis, MN",
-        "Achievements": "Collaborates with a team of technology specialists to provide IT support and management in a large-scale environment.  Creates positive interactions for users needing technological assistance and worked to troubleshoot issues in a professional and organized manner.  Regularly utilizes a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems and to provide support to students, faculty, alumni, parents, and other affiliates."
+        "Achievements": "Collaborates with a team of technology specialists to provide IT support and management in a large-scale environment.  Creates positive interactions for users needing technological assistance and works to troubleshoot issues in a professional and organized manner.  Regularly utilizes a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems while providing support to students, faculty, alumni, parents, and other affiliates."
       },
       {
         "CompanyName":"Lutheran Social Services of Minnesota",
