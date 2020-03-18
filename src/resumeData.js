@@ -51,7 +51,7 @@ let resumeData = {
         "minor":"Minor in Learning Technologies",  
         "GraduationMonth":"May",
         "GraduationYear":"2020",
-        "GPA":"GPA: 3.7",
+        "GPA":"GPA: 3.5",
         "Achievements":"Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 2019, Victoria Mikelonis Undergraduate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019"
       },
       {
