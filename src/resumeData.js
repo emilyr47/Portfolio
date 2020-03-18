@@ -60,6 +60,8 @@ let resumeData = {
         "minor":"The Coding Bootcamp",  
         "GraduationMonth":"July",
         "GraduationYear":"2019",
+        "Achievements":"Description: The Coding Bootcamp is hosted by The College of Continuing and Professional Studies (CCAPS) at the University of Minnesota and is taught in partner with Trilogy Education Services.  The six-month intensive program teaches the MERN stack (Mongo, Express, React.js, Node.js) and key aspects of web development including HTML5, CSS3, JavaScript, jQuery, Bootstrap, Database Theory, Command Line, and Git."
+
       }
     ],
     "work":[
