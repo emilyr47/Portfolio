@@ -77,7 +77,7 @@ let resumeData = {
         "Start":"Sep 2019 -",
         "End":"Dec 2019",
         "Location":"St. Paul, MN",
-        "Achievements":"Collaborated within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributed to UX/UI discussions and social media performance analyzation."
+        "Achievements":"Collaborated within a marketing/communications and web team by improving and maintaining the organization's Drupal website and services contact data. Also contributed to UX/UI discussions and social media performance analyzation through participating in external contractor meetings and work sessions."
       },
       {
         "CompanyName":"University of Minnesota - College of Science and Engineering",
