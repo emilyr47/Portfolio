@@ -52,6 +52,7 @@ let resumeData = {
         "GraduationMonth":"May",
         "GraduationYear":"2020",
         "GPA":"GPA: 3.5",
+        "transcript":"images/transcript.pdf",
         "Achievements":"Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 2019, Victoria Mikelonis Undergraduate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019"
       },
       {
@@ -60,6 +61,7 @@ let resumeData = {
         "minor":"The Coding Bootcamp",  
         "GraduationMonth":"July",
         "GraduationYear":"2019",
+        "transcript": "https://umn.credly.com/member-badges/19394878",
         "Achievements":"Description: The Coding Bootcamp is hosted by The College of Continuing and Professional Studies (CCAPS) at the University of Minnesota and is taught in partner with Trilogy Education Services.  The six-month intensive program teaches the MERN stack (Mongo, Express, React.js, Node.js) and key aspects of web development including HTML5, CSS3, JavaScript, jQuery, Bootstrap, Database Theory, Command Line, and Git."
 
       }
@@ -145,6 +147,9 @@ let resumeData = {
         "skillname":"React.js"
       },
       {
+        "skillname":"XML & DITA"
+      },
+      {
         "skillname":"Adobe Creative Cloud Suite"
       },
     ],
@@ -204,7 +209,7 @@ let resumeData = {
         "name":"Blue Light Research Report",
         "description":"Research report that examines the effects blue light has on a person's sleep cycle and overall health.",  
         "imgurl":"images/bluelight.png",
-        "pdfurl":"images/blueLight.pdf"
+        "pdfurl":"blueLight.pdf"
 
       }
     ],

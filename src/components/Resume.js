@@ -36,13 +36,15 @@ export default  class Resume extends Component {
                           </p>
                           <p>
                           {item.Achievements}
+                         <br></br><br></br> <a href={`${item.transcript}`} target="_blank" rel="noopener noreferrer">View Transcript/Credentials</a><br></br>
+
                           </p>
                        </div>
                     </div>
                   )
                 })
               }
-                                        <a href="https://umn.credly.com/member-badges/19394878" target="_blank" rel="noopener noreferrer">View Credential</a><br></br>
+
 
             </div>
          </div>
