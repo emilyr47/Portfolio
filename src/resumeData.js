@@ -195,7 +195,7 @@ let resumeData = {
         "name":"Instruction Manual for Great White Shark Lego Model",
         "description":"Instruction for the set up and building of a great white shark using traditional legos.  Information about pieces included, set up instructions, and safety measured included.",  
         "imgurl":"images/shark.png",
-        "pdfurl":"images/shark.doc"
+        "pdfurl":"images/shark.pdf"
 
       },
       {
