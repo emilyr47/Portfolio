@@ -209,7 +209,7 @@ let resumeData = {
         "name":"Blue Light Research Report",
         "description":"Research report that examines the effects blue light has on a person's sleep cycle and overall health.",  
         "imgurl":"images/bluelight.png",
-        "pdfurl":"blueLight.pdf"
+        "pdfurl":"images/blueLight.pdf"
 
       }
     ],
