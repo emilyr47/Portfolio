@@ -176,6 +176,15 @@ let resumeData = {
         "projecturl":"http://project-resume-1.herokuapp.com/",
         "repourl":"https://github.com/emilyr47/projectResume"
       },
+
+      {
+        "name":"Portfolio Template",
+        "description":"Web portfolio template created for a client as a freelance project. Real names removed for client's privacy.",  
+        "imgurl":"images/pt.png",
+        "projecturl":"https://emilyr47.github.io/web-portfolio-template/",
+        "repourl":"https://github.com/emilyr47/web-portfolio-template"
+      },
+
       {
         "name":"Friend's Game",
         "description":"This is a memory game powered by React.js.  The goal of the game is to remember which Friends characters you have clicked on and to see how long you can last.  The game keeps score for you.",
