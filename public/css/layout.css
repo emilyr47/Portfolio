@@ -625,12 +625,15 @@ ul#nav li.current a { color: #45A29E; }
 .portfolio-item:hover .overlay {
 	opacity: 15;
 	-moz-opacity: 15;
-	filter:alpha(opacity=100);
+   filter:alpha(opacity=100);
+   cursor: pointer;
 }
 .portfolio-item:hover .link-icon {
    opacity: 15;
 	-moz-opacity: 15;
-	filter:alpha(opacity=100);
+   filter:alpha(opacity=100);
+   cursor: pointer;
+
 }
 
 /* popup modal */

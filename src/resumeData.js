@@ -71,7 +71,7 @@ let resumeData = {
         "CompanyName":"University of Minnesota - Office of Information Technology",
         "specialization":"Technology Help Specialist",
         "Start":"Jan 2020 -",
-        "End":"Present",
+        "End":"May 2020",
         "Location":"Minneapolis, MN",
         "Achievements": "Collaborates with a team of technology specialists to provide IT support and management in a large-scale environment.  Creates positive interactions for users needing technological assistance and works to troubleshoot issues in a professional and organized manner.  Regularly utilizes a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems while providing support to students, faculty, alumni, parents, and other affiliates."
       },
@@ -163,11 +163,11 @@ let resumeData = {
         "imgurl":"images/findo.png"
       },
       {
-        "name":"Doenet",
-        "description":"Doenet is Learning Management System powered by React.js and PHP.  It is an on-going project being developed by a team within the School of Mathematics at the University of Minnesota.",
-        "imgurl":"images/doenet.png",
-        "projecturl":"https://emilyr47.github.io/Doenet/",
-        "repourl":"https://github.com/emilyr47/Doenet"
+        "name":"Usability & Human Factors",
+        "description":"Project based off of Jakob Nielsen's ten heuristics for user interface design.",
+        "imgurl":"images/usability.png",
+        "projecturl":"https://emilyr47.github.io/UX-UI/index.html",
+        "repourl":"https://github.com/emilyr47/UX-UI"
       },
       {
         "name":"Project Resume",
@@ -235,13 +235,27 @@ let resumeData = {
         "siteurl":"https://www.sharemarq.com/"
 
       },
-      {
-        "name":"Major Minor Expo Infographic",
-        "description":"Infographic created for Spring 2019 Major Minor Expo",  
-        "imgurl":"images/major.png",
-        "siteurl":"images/Major-minor-ExpoTWC.pdf"
 
+      {
+        "name":"CodingCareer",
+        "description":"Coding and career eLearning Hub website built using WIX.  Originally created for an applied bussiness course, but hoping to turn into a full time project.",  
+        "imgurl":"images/codingcareer.png",
+        "siteurl":"https://raper003.wixsite.com/codingcareer"
       },
+
+      {
+        "name":"Children's Digital Footprint Blog",
+        "description":"Blog created as a space to facilitate discussion about the digital footprint and how datafication impacts children.  Created as an artifact for a scholarship project centered around public debate in technology.",  
+        "imgurl":"images/footprint.png",
+        "siteurl":"https://raper003.wixsite.com/childrens-footprint"
+      },
+
+      {
+        "name":"Visual Rhetoric of Web Design Over Time",
+        "description":"Originally created as part of a visual rhetoric project, this website analyzes how three pizza restaurants have followed web design trends over time.",  
+        "imgurl":"images/pizza.png",
+        "siteurl":"https://raper003.wixsite.com/pizza"
+      }
 
     ],
     "testimonials":[

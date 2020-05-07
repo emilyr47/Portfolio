@@ -20,17 +20,11 @@ export default class Porfolio extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
-                         
-
-                          {/* <button src={`${item.projecturl}`} className="portbtn" alt="">View Project</button>
-                          <button src={`${item.repourl}`} className="portbtn" alt="">View Code</button> */}
-
 
                         </div>
                         
                       </div>
                       
-                    {/* </a> */}
                   </div>
                   <a href={`${item.projecturl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
                           <a href={`${item.repourl}`} target="_blank" rel="noopener noreferrer">View Code</a><br></br>
@@ -85,7 +79,7 @@ export default class Porfolio extends Component {
       
       <div className="row">
         <div className="twelve columns collapsed">
-          <h2>Information and Graphic Design</h2><br></br>
+          <h2>Information Design with CMS</h2><br></br>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
             resumeData.portfolio3 && resumeData.portfolio3.map((item)=>{
