@@ -91,11 +91,11 @@ export default  class Resume extends Component {
 <div class="container vertical-divider">
   <div class="column one-third">
     <h3>Top Web Skills</h3>
-    <p>-HTML<br></br>-CSS<br></br>-JavaScript<br></br>-React.js<br></br>-Node.js<br></br>-XML &amp; DITA<br></br>-Scrum &amp; Agile</p>
+    <p>-HTML<br></br>-CSS<br></br>-JavaScript<br></br>-React.js<br></br>-Node.js<br></br>-XML &amp; DITA<br></br>-Scrum &amp; Agile<br></br>-UX/UI Design</p>
   </div>
   <div class="column one-third">
     <h3>Software Skills</h3>
-    <p>-Adobe Creative Cloud Suite (most experienced in Photoshop, InDesign, Framemaker, &amp; Illustrator)<br></br>-Drupal<br></br>-Trello, JIRA, &amp; Asana<br></br>-Google Analytics &amp; Google Data Studio<br></br>-ServiceNow &amp; Kace<br></br>-Wordpress, WIX, &amp; SquareSpace<br></br>-Microsoft Office Suite</p>
+    <p>-Adobe Creative Cloud Suite (most experienced in Photoshop, InDesign, Framemaker, &amp; Illustrator)<br></br>-Drupal<br></br>-Trello, JIRA, &amp; Asana<br></br>-Google Analytics &amp; Google Data Studio<br></br>-ServiceNow &amp; Kace<br></br>-Wordpress, WIX, &amp; SquareSpace<br></br>-Microsoft 365 <br></br>-Sketch<br></br>-Knowledge Bases</p>
   </div>
   <div class="column one-third">
     <h3>Soft Skills</h3>
