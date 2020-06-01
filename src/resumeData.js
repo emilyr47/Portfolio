@@ -158,7 +158,7 @@ let resumeData = {
       {
         "name":"FINDO",
         "description":"A state fair themed bingo game powered by React.js and CSS Doodle",
-        "projecturl":"https://play.findo.games/",
+        "projecturl":"https://github.com/emilyr47/findo-app-1",
         "repourl":"https://github.com/emilyr47/findo-app-1",
         "imgurl":"images/findo.png"
       },
