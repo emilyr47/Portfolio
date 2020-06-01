@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Developer, Designer, and Writer",
-    "role": "Organized developer, designer, and technical writer passionate about intuitive web technologies, applications, and innovative communication",
+    "role": "Organized developer, designer, and technical communicator with two years experience in technical writing, web design and development, information technology, and user experience design",
     "linkedinId":"Your LinkedIn Id",
     "roleDescription": "",
     "socialLinks":[
@@ -53,7 +53,7 @@ let resumeData = {
         "GraduationYear":"2020",
         "GPA":"GPA: 3.6",
         "transcript":"images/transcript.pdf",
-        "Achievements":"Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 2019, Victoria Mikelonis Undergraduate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019"
+        "Achievements":"Activities & Achievements: Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 2019, Victoria Mikelonis Undergraduate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019"
       },
       {
         "UniversityName":"University of Minnesota - College of Continuing and Professional Studies",
