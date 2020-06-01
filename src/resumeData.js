@@ -68,72 +68,64 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"MAXIMUS",
-        "specialization":"Technical Writer Intern",
+        "CompanyName":"Technical Writer Intern",
+        "specialization":"MAXIMUS",
         "Start":"May 2020 -",
         "End":"Present",
         "Location":"St. Paul, MN",
         "Achievements": ""
       },
       {
-        "CompanyName":"University of Minnesota - Office of Information Technology",
-        "specialization":"Technology Help Specialist",
+        "CompanyName":"Technology Help Specialist",
+        "specialization":"University of Minnesota - Office of Information Technology",
         "Start":"Jan 2020 -",
         "End":"May 2020",
         "Location":"Minneapolis, MN",
         "Achievements": "Collaborated with a team of technology specialists to provide IT support and management in a large-scale, university environment. Regularly utilized a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems while providing support to students, faculty, alumni, parents, and other affiliates. Supported students and faculty by creating positive interactions as the University transitioned to remote work during the COVID-19 pandemic."
       },
       {
-        "CompanyName":"Lutheran Social Services of Minnesota",
-        "specialization":"Web Communications Intern",
+        "CompanyName":"Web Communications Intern",
+        "specialization":"Lutheran Social Services of Minnesota",
         "Start":"Sep 2019 -",
         "End":"Dec 2019",
         "Location":"St. Paul, MN",
         "Achievements":"Collaborated within a marketing/communications and web team by improving and maintaining the organization's Drupal website and services contact data. Also contributed to UX/UI discussions and social media performance analyzation through participating in external contractor meetings and work sessions."
       },
       {
-        "CompanyName":"University of Minnesota - College of Science and Engineering",
-        "specialization":"Educational Technology Developer",
+        "CompanyName":"Educational Technology Developer",
+        "specialization":"University of Minnesota - College of Science and Engineering",
         "Start":"Sep 2019 -",
         "End":"Nov 2019",
         "Location":"Minneapolis, MN",
         "Achievements":"Collaborated with a team of developers to build startup educational tools primarily using React.js and other in-demand and innovative web technologies. Contributed as both a JavaScript developer and as a UX/UI and logo designer."
       },
       {
-        "CompanyName":"Minnesota Historical Society",
-        "specialization":"Web Design Intern",
+        "CompanyName":"Web Design Intern",
+        "specialization":"Minnesota Historical Society",
         "Start":"Jun 2019 -",
         "End":"Aug 2019",
         "Location":"St. Paul, MN",
         "Achievements":"Improved business intelligence and process improvement through prototyping Scrum/Agile workflow in modern team management tools. Also collaborated with a web team on frontend coding and design projects."
       },
       {
-        "CompanyName":"University of Minnesota",
-        "specialization":"Technical Writing and Communication Peer Advisor",
+        "CompanyName":"Peer Advisor for Technical Writing & Communication",
+        "specialization":"University of Minnesota - Department of Writing Studies",
         "Start":"Feb 2019 -",
         "End":"Aug 2019",
         "Location":"Minneapolis, MN",
         "Achievements":"Implemented new ways to digitalize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC."
       },
       {
-        "CompanyName":"University of Minnesota",
-        "specialization":"Web Technical Assistant/Developer",
+        "CompanyName":"Web Technical Assistant/Developer",
+        "specialization":"University of Minnesota - College of Liberal Arts Web Team",
         "Start":"Oct 2018 -",
         "End":"Aug 2019",
         "Location":"Minneapolis, MN",
         "Achievements":"Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Also conducted Drupal training sessions for department web editors and responded to department fix-it requests."
       },
       {
-        "CompanyName":"University of Minnesota",
-        "specialization":"Web Strategy Communications Assistant",
-        "Start":"Sep 2018 -",
-        "End":"Oct 2018",
-        "Location":"Minneapolis, MN",
-        "Achievements":"Collaborated with a web strategy team to fix bugs, update HTML and CSS code, transfer sites to WordPress, and troubleshoot fix-it requests. Also served as a prompt communicator to those contacting the web strategy team."
-      },
-      {
-        "CompanyName":"Northwestern College",
-        "specialization":"Senior Associate/Caller",
+        "CompanyName":"Senior Associate/Caller",
+        "specialization":"Northwestern College - Phonathon",
         "Start":"Oct 2017 -",
         "End":"May 2018",
         "Location":"Orange City, IA",
@@ -202,6 +194,13 @@ let resumeData = {
       }
     ],
     "portfolio2":[
+      {
+        "name":"Usability Test Report",
+        "description":"Final report written on a usability test of Hennepin County Library's website.  Usability test completed as a part of a usability course completed at the University of Minnesota.",
+        "imgurl":"images/hcl.png",
+        "pdfurl":"images/hcl.pdf"
+      },
+      
       {
         "name":"Internship Report",
         "description":"Report written based on internship completed Fall 2019.",
