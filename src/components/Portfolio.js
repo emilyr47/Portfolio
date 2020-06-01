@@ -62,7 +62,7 @@ export default class Porfolio extends Component {
 
                     
                   </div>
-                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">Download Project</a><br></br>
+                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
 
                   
                 </div>
@@ -79,10 +79,40 @@ export default class Porfolio extends Component {
       
       <div className="row">
         <div className="twelve columns collapsed">
-          <h2>Information Design with CMS</h2><br></br>
+          <h2>Web Design with CMS</h2><br></br>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
             resumeData.portfolio3 && resumeData.portfolio3.map((item)=>{
+              return(
+                <div className="columns portfolio-item">
+                  <div className="item-wrap">
+                    {/* <a href="#modal-01"> */}
+                      <img src={`${item.imgurl}`} className="item-img" alt=""/>
+                      <div className="overlay">
+                        <div className="portfolio-item-meta">
+                          <h5>{item.name}</h5>
+                          <p>{item.description}</p>
+                          <p></p>
+                        </div>
+                      </div>
+                    {/* </a> */}
+                  </div>
+                  <a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+
+                </div>
+                
+              )
+            })
+          }
+          </div>
+        </div>
+      </div>
+      <div className="row">
+        <div className="twelve columns collapsed">
+          <h2>Graphic Design</h2><br></br>
+          <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+          {
+            resumeData.portfolio4 && resumeData.portfolio4.map((item)=>{
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">

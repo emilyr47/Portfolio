@@ -275,6 +275,39 @@ let resumeData = {
       }
 
     ],
+
+    "portfolio4":[
+      {
+        "name":"Fresher is Better",
+        "description":"Final project for applied digital marketing course explaining executive summary of the final campaign idea and presentation.",  
+        "imgurl":"images/fresh.png",
+        "siteurl":"images/FresherIsBetter.pdf"
+      },
+      {
+        "name":"Writing Studies Infographic",
+        "description":"Infographic designed for the Department of Writing Studies at the University of Minnesota.  Orginally created for the major-minor expo a the University.",  
+        "imgurl":"images/twc.png",
+        "siteurl":"images/ExpoTWC.pdf"
+
+      },
+      {
+        "name":"Propaganda Infographic",
+        "description":"Infographic created to explain possible next steps after receiving propaganda. Originally created for a learning technologies course. ",  
+        "imgurl":"images/prop.png",
+        "siteurl":"images/prop.pdf"
+
+      },
+
+      {
+        "name":"Are You A Spy?",
+        "description":"Infographic created to raise awareness about location tracking and privacy violations between parents and children. Originall created for a learning technologies course.",  
+        "imgurl":"images/spy.png",
+        "siteurl":"images/spy.pdf"
+      }
+
+    ],
+
+    
     "testimonials":[
       {
         "description":"I worked alongside Emily in a large scale Web Development project and she was a fantastic person to work with. She excels at Front End dev and has a knack for great design. Easy to work with and great personality - can't recommend her enough!",
