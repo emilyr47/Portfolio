@@ -159,6 +159,7 @@ let resumeData = {
         "name":"FINDO",
         "description":"A state fair themed bingo game powered by React.js and CSS Doodle",
         "projecturl":"https://github.com/emilyr47/findo-app-1",
+        "short":"Short descroption here",
         "repourl":"https://github.com/emilyr47/findo-app-1",
         "imgurl":"images/findo.png"
       },
@@ -202,7 +203,7 @@ let resumeData = {
       },
 
       {
-        "name":"Service Desk Knowledge Base Articles",
+        "name":"IT Knowledge Base Articles",
         "description":"Knowledge base articles written for an IT service desk call center. The articles are not specific to any organization for privacy, but they do reflect my experience from working at a large service desk and knowledge base writing.",  
         "imgurl":"images/KB.png",
         "pdfurl":"images/KB.pdf"
@@ -210,7 +211,7 @@ let resumeData = {
       },
 
       {
-        "name":"Instruction Manual for Great White Shark Lego Model",
+        "name":"Instruction Manual-Lego",
         "description":"Instruction for the set up and building of a great white shark using traditional legos.  Information about pieces included, set up instructions, and safety measured included.",  
         "imgurl":"images/shark.png",
         "pdfurl":"images/shark.pdf"
@@ -244,13 +245,13 @@ let resumeData = {
 
     "portfolio3":[
       {
-        "name":"Pillsbury Hall Renovation Website",
+        "name":"Pillsbury Hall Renovation",
         "description":"Subsite of the College of Liberal Arts, UMN website.  Created using Drupal 7.",  
         "imgurl":"images/pills.png",
         "siteurl":"https://cla.umn.edu/pillsbury-hall-renovation"
       },
       {
-        "name":"College of Liberal Arts, UMN 150th Year Magazine",
+        "name":"CLA 150th Year Magazine",
         "description":"Digital version of the CLA 150th Anniversary Magazine.  Created using Drupal 7.",  
         "imgurl":"images/claMag.png",
         "siteurl":"https://cla.umn.edu/cla-magazine"

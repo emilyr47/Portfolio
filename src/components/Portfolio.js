@@ -26,8 +26,10 @@ export default class Porfolio extends Component {
                       </div>
                       
                   </div>
-                  <a href={`${item.projecturl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
-                          <a href={`${item.repourl}`} target="_blank" rel="noopener noreferrer">View Code</a><br></br>
+                  <p>{item.name}<br></br><a href={`${item.projecturl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                          <a href={`${item.repourl}`} target="_blank" rel="noopener noreferrer">View Code</a><br></br></p>
+
+                  
 
                 </div>
                 
@@ -61,8 +63,8 @@ export default class Porfolio extends Component {
                     {/* </a> */}
 
                     
-                  </div>
-                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                  </div><p>{item.name}<br></br>
+                  <a href={`${item.pdfurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br></p>
 
                   
                 </div>
@@ -97,7 +99,7 @@ export default class Porfolio extends Component {
                       </div>
                     {/* </a> */}
                   </div>
-                  <a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                 <p>{item.name}<br></br><a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br></p>
 
                 </div>
                 
@@ -126,8 +128,8 @@ export default class Porfolio extends Component {
                         </div>
                       </div>
                     {/* </a> */}
-                  </div>
-                  <a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br>
+                  </div><p>{item.name}<br></br><a href={`${item.siteurl}`} target="_blank" rel="noopener noreferrer">View Project</a><br></br></p>
+                  
 
                 </div>
                 
