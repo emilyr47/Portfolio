@@ -200,13 +200,15 @@ let resumeData = {
         "imgurl":"images/hcl.png",
         "pdfurl":"images/hcl.pdf"
       },
-      
+
       {
-        "name":"Internship Report",
-        "description":"Report written based on internship completed Fall 2019.",
-        "imgurl":"images/internship.png",
-        "pdfurl":"images/internreport.pdf"
+        "name":"Service Desk Knowledge Base Articles",
+        "description":"Knowledge base articles written for an IT service desk call center. The articles are not specific to any organization for privacy, but they do reflect my experience from working at a large service desk and knowledge base writing.",  
+        "imgurl":"images/KB.png",
+        "pdfurl":"images/KB.pdf"
+
       },
+
       {
         "name":"Instruction Manual for Great White Shark Lego Model",
         "description":"Instruction for the set up and building of a great white shark using traditional legos.  Information about pieces included, set up instructions, and safety measured included.",  
@@ -214,6 +216,7 @@ let resumeData = {
         "pdfurl":"images/shark.pdf"
 
       },
+
       {
         "name":"Yale Web Design Report",
         "description":"Report written to document the process of a web design project.",  
@@ -221,6 +224,15 @@ let resumeData = {
         "pdfurl":"images/TWCFinalProject1.pdf"
 
       },
+      
+      {
+        "name":"Internship Report",
+        "description":"Report written based on internship completed Fall 2019.",
+        "imgurl":"images/internship.png",
+        "pdfurl":"images/internreport.pdf"
+      },
+
+
       {
         "name":"Blue Light Research Report",
         "description":"Research report that examines the effects blue light has on a person's sleep cycle and overall health.",  
