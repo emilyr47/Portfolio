@@ -170,20 +170,28 @@ let resumeData = {
         "projecturl":"https://emilyr47.github.io/UX-UI/index.html",
         "repourl":"https://github.com/emilyr47/UX-UI"
       },
+
+      {
+        "name":"Single Page Portfolio Template",
+        "description":"Single page web portfolio template",
+        "imgurl":"images/ssp.png",
+        "projecturl":"https://emilyr47.github.io/portfolio-template/index.html",
+        "repourl":"https://github.com/emilyr47/portfolio-template"
+      },
+
+      {
+        "name":"Basic Portfolio Template",
+        "description":"Web portfolio template created for a client as a freelance project. Real names removed for client's privacy.",  
+        "imgurl":"images/pt.png",
+        "projecturl":"https://emilyr47.github.io/web-portfolio-template/",
+        "repourl":"https://github.com/emilyr47/web-portfolio-template"
+      },
       {
         "name":"Project Resume",
         "description":"This is a job application tracking app powered by JavaScript and Node.js.  The app saves your most recent job applications in its database and then proceeds to remind users when to follow up with potential employers.  The app also provides job openings using the GitHub Job's API.",  
         "imgurl":"images/projectresume.png",
         "projecturl":"http://project-resume-1.herokuapp.com/",
         "repourl":"https://github.com/emilyr47/projectResume"
-      },
-
-      {
-        "name":"Portfolio Template",
-        "description":"Web portfolio template created for a client as a freelance project. Real names removed for client's privacy.",  
-        "imgurl":"images/pt.png",
-        "projecturl":"https://emilyr47.github.io/web-portfolio-template/",
-        "repourl":"https://github.com/emilyr47/web-portfolio-template"
       },
 
       {
