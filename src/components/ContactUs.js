@@ -8,7 +8,7 @@ export default class ContactUs extends Component {
               <p className="lead">
               <h2>Contact</h2><br></br>
 
-              Emily Raper<br></br>Greater Minneapolis - St. Paul Area<br></br> 763.381.1098 | <a href="mailto: emilygrweb@gmail.com" target="_blank" rel="noopener noreferrer">emilygrweb@gmail.com</a>
+              Emily Raper<br></br>Greater New Orleans Region<br></br> 763.381.1098 | <a href="mailto: emilygrweb@gmail.com" target="_blank" rel="noopener noreferrer">emilygrweb@gmail.com</a>
 
               </p>          
             </div>

@@ -1,13 +1,10 @@
 Personal Information
 Emily Raper
-1384 138th Lane NW
-Andover, MN, 55304
 763.381.1098
 emilygrweb@gmail.com
-Portfolio: https://emily-web-portfolio.herokuapp.com/
+Portfolio and Work Samples: https://emily-web-portfolio.herokuapp.com/
 Github: https://github.com/emilyr47
 LinkedIn: https://www.linkedin.com/in/emilyraper/
-Certificate: https://umn.credly.com/member-badges/19394878
 
 
 
@@ -30,7 +27,7 @@ Fullstack Web Development, MERN Stack
 Skills & Strengths
 
 Web
-HTML 
+HTML, XML, DITA
 CSS & Bootstrap
 JavaScript
 Node.js
@@ -61,7 +58,7 @@ Work Experience
 
 Technical Writer Intern
 MAXIMUS
-May 2020 - Present, St. Paul, MN
+May 2020 - Present, St. Paul, MN (Remote)
 
 Technology Help Specialist
 Office of Information Technology, University of Minnesota
