@@ -1,8 +1,8 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepage": "https://emilygrweb.com",
   "private": true,
+  "homepage": "https://emilyr47.github.io/portfolio",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
@@ -15,6 +15,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": "react-app"

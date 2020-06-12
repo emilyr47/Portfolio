@@ -1,50 +1,89 @@
-RESUME
+Personal Information
+Emily Raper
+763.381.1098
+emilygrweb@gmail.com
+Portfolio and Work Samples: https://emily-web-portfolio.herokuapp.com/
+Github: https://github.com/emilyr47
+LinkedIn: https://www.linkedin.com/in/emilyraper/
 
-EDUCATION
-University of Minnesota, Twin Cities
-Bachelor of Science in Technical Writing and Communication - Information Technology and Design Track, Minor in Learning Technologies, May 2020
 
-GPA: 3.7
 
-Dean's List Fall 2018 and Spring 2019, Tau Sigma National Honors Society Member, James and Ruth Brown Undergraduate Award Spring 2019, Victoria Mikelonis Undergraduate Memorial Fund in Scientific and Technical Communication Scholarship Fall 2019
+Education
 
-University of Minnesota, College of Continuing and Professional Studies
-Full Stack Web Development Certification, The Coding Bootcamp, July 2019
+University of Minnesota
 
-Credential is available for view on portfolio website.
+Bachelor of Science, May 2020  
+Technical Writing & Communication, 
+emphasis in Information Technology & Design
 
-WORK EXPERIENCES
+Minor, May 2020
+Learning Technologies
+
+Certificate, July 2019
+Fullstack Web Development, MERN Stack
+
+3.6 GPA
+
+Skills & Strengths
+
+Web
+HTML, XML, DITA
+CSS & Bootstrap
+JavaScript
+Node.js
+React.js
+MVC Structure
+Scrum & Agile
+UX/UI & Responsive Design
+
+Software & Tools
+Drupal & WordPress
+Trello, JIRA, & Asana
+MailChimp
+Adobe CC
+ServiceNow
+Google Analytics
+Data Studio
+Knowledge Bases
+
+Soft Skills & Strengths
+Researcher & Documenter
+Project & Goal Oriented
+Self-motivated Worker
+Organized Leader 
+Collaborator & Innovator
+Writer & Communicator
+
+Work Experience
+
+Technical Writer Intern
+MAXIMUS
+May 2020 - Present, St. Paul, MN (Remote)
+
+Technology Help Specialist
+Office of Information Technology, University of Minnesota
+Jan. 2020 - May 2020, Minneapolis, MN
+Collaborated with a team of technology specialists to provide IT support and management in a large-scale, university environment. Regularly utilized a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems while providing support to students, faculty, alumni, parents, and other affiliates. Supported students and faculty by creating positive interactions as the University transitioned to remote work during the COVID-19 pandemic.
+
+Web Communications Intern
 Lutheran Social Services of Minnesota
-Web Communications Intern, Sep 2019 - Dec 2019, St. Paul, MN
+Sept. 2019 - Dec. 2019, St. Paul, MN
+Collaborated within a marketing/communications and web team to improve and maintain the 
+organization’s Drupal website and services contact data. Also contributed to discussions on UX/UI, social media performance, and content management.
 
-Collaborated within a marketing/communications and web team to improve and maintain the organization's Drupal website and services contact data. Also contributed to UX/UI discussions and social media performance analyzation.
+Educational Technology Developer
+College of Science & Engineering, University of Minnesota
+Sept. 2019 - Nov. 2019, Minneapolis, MN
+Collaborated with a team of developers to build startup educational tools, primarily using React.js and other in-demand and innovative web technologies. Contributed as both a JavaScript developer and as a UX/UI, logo, and technical content designer and writer.
 
-University of Minnesota - College of Science and Engineering
-Educational Technology Developer, Sep 2019 - Nov 2019, Minneapolis, MN
+Web Design Intern
+Web and Mobile Services, Minnesota Historical Society
+Jun. 2019 - Aug. 2019, St. Paul, MN
+Worked with web and business intelligence teams to implement a strong CRM and Scrum/Agile work environment. Additionally, collaborated on front end coding projects and tasks to improve UX/UI design & functionality of society’s website and internal communication applications.
 
-Collaborated with a team of developers to build startup educational tools primarily using React.js and other in-demand and innovative web technologies. Contributed as both a JavaScript developer and as a UX/UI and logo designer.
-
-Minnesota Historical Society
-Web Design Intern, Jun 2019 - Aug 2019, St. Paul, MN
-
-Improved business intelligence and process improvement through prototyping Scrum/Agile workflow in modern team management tools. Also collaborated with a web team on frontend coding and design projects.
-
-University of Minnesota
-Technical Writing and Communication Peer Advisor, Feb 2019 - Aug 2019, Minneapolis, MN
-
-Implemented new ways to digitalize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC.
-
-University of Minnesota
-Web Technical Assistant/Developer, Oct 2018 - Aug 2019, Minneapolis, MN
-
-Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Also conducted Drupal training sessions for department web editors and responded to department fix-it requests.
-
-University of Minnesota
-Web Strategy Communications Assistant, Sep 2018 - Oct 2018, Minneapolis, MN
-
-Collaborated with a web strategy team to fix bugs, update HTML and CSS code, transfer sites to WordPress, and troubleshoot fix-it requests. Also served as a prompt communicator to those contacting the web strategy team.
-
-Northwestern College
-Senior Associate/Caller, Oct 2017 - May 2018, Orange City, IA
-
-Helped with the planning and success of the first annual All-N-Day of Giving and demonstrated leadership and experience on a team of student callers. Professionally communicated with respected college donors and alumni to reach fundraising and marketing goals.
+Peer Advisor, Technical Writing and Communication
+Department of Writing Studies, University of Minnesota
+Feb. 2019 - Aug. 2019, Minneapolis, MN
+Built simple web applications to digitalize the peer advising role within the Technical
+Writing and Communication department. Also exercised brand information design and mass 
+communication through the creation of department handouts and e-newsletters. Regularly scheduled and led meetings with students regarding major declaration and exploration, graduation and career planning, academic advising, study abroad programs, internship and job opportunities, and information about the major.     
