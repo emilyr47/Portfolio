@@ -68,6 +68,14 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "Freelance UX/UI/Web Designer and Developer",
+      "specialization": "Self-Employed/Freelance",
+      "Start": "July 2019 -",
+      "End": "Present",
+      "Location": "Work from Home based in Minneapolis, MN",
+      "Achievements": "Creates and designs websites and UX/UI solutions for clients primarily using HTML, CSS, JavaScript, and React.js and mockup tools such as Sketch and Adobe CC. Projects include wireframes and user research, website re-design to fit usability heuristics, and coding websites, personal portfolios, and blogs from the ground up."
+    },
+    {
       "CompanyName": "Technical Writer Intern",
       "specialization": "MAXIMUS",
       "Start": "May 2020 -",
@@ -75,6 +83,7 @@ let resumeData = {
       "Location": "St. Paul, MN",
       "Achievements": ""
     },
+
     {
       "CompanyName": "Technology Help Specialist",
       "specialization": "University of Minnesota - Office of Information Technology",
