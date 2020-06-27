@@ -68,20 +68,21 @@ let resumeData = {
   ],
   "work": [
     {
-      "CompanyName": "Freelance UX/UI/Web Designer and Developer",
+      "CompanyName": "Technical Writer Intern",
+      "specialization": "MAXIMUS",
+      "Start": "May 2020 -",
+      "End": "Present",
+      "Location": "St. Paul, MN (Remote during COVID-19)",
+      "Achievements": "Works with knowledge management to improve the knowledge base for the organization’s IT service desk and end users. Writes and edits user support documentation and how-tos according to a style guide and edits data and projects using MS Sharepoint, Power Automate, and MS 365."
+    },
+
+    {
+      "CompanyName": "UX/UI/Web Designer and Developer",
       "specialization": "Self-Employed/Freelance",
       "Start": "July 2019 -",
       "End": "Present",
       "Location": "Work from Home based in Minneapolis, MN",
       "Achievements": "Creates and designs websites and UX/UI solutions for clients primarily using HTML, CSS, JavaScript, and React.js and mockup tools such as Sketch and Adobe CC. Projects include wireframes and user research, website re-design to fit usability heuristics, and coding websites, personal portfolios, and blogs from the ground up."
-    },
-    {
-      "CompanyName": "Technical Writer Intern",
-      "specialization": "MAXIMUS",
-      "Start": "May 2020 -",
-      "End": "Present",
-      "Location": "St. Paul, MN",
-      "Achievements": ""
     },
 
     {
@@ -89,7 +90,7 @@ let resumeData = {
       "specialization": "University of Minnesota - Office of Information Technology",
       "Start": "Jan 2020 -",
       "End": "May 2020",
-      "Location": "Minneapolis, MN",
+      "Location": "Minneapolis, MN (Remote during COVID-19)",
       "Achievements": "Collaborated with a team of technology specialists to provide IT support and management in a large-scale, university environment. Regularly utilized a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems while providing support to students, faculty, alumni, parents, and other affiliates. Supported students and faculty by creating positive interactions as the University transitioned to remote work during the COVID-19 pandemic."
     },
     {
@@ -122,7 +123,7 @@ let resumeData = {
       "Start": "Feb 2019 -",
       "End": "Aug 2019",
       "Location": "Minneapolis, MN",
-      "Achievements": "Implemented new ways to digitalize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC."
+      "Achievements": "Implemented new ways to digitatize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC."
     },
     {
       "CompanyName": "Web Technical Assistant/Developer",
