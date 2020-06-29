@@ -131,7 +131,7 @@ let resumeData = {
       "Start": "Oct 2018 -",
       "End": "Aug 2019",
       "Location": "Minneapolis, MN",
-      "Achievements": "Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Also conducted Drupal training sessions for department web editors and responded to department fix-it requests."
+      "Achievements": "Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Regularly created wireframes, planning and training documents, and information web pages to solve problems and collaborate on technology-integrated solutions. Conducted semi-monthly Drupal training sessions for department web editors, staff, and faculty and responded to web assistance incidents and tickets."
     },
     {
       "CompanyName": "Senior Associate/Caller",
