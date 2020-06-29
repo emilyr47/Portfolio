@@ -145,19 +145,19 @@ let resumeData = {
   "skillsDescription": "",
   "skills": [
     {
-      "skillname": "HTML"
+      "skillname": "HTML, XML, & DITA"
     },
     {
-      "skillname": "CSS"
+      "skillname": "CSS & Bootstrap"
     },
     {
-      "skillname": "JavaScript"
+      "skillname": "ASP.NET"
     },
     {
-      "skillname": "React.js"
+      "skillname": "JavaScript & React.js"
     },
     {
-      "skillname": "XML & DITA"
+      "skillname": "SQL"
     },
     {
       "skillname": "Adobe Creative Cloud Suite"

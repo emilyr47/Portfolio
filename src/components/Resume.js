@@ -91,15 +91,15 @@ export default  class Resume extends Component {
 <div class="container vertical-divider">
   <div class="column one-third">
     <h3>Top Web Skills</h3>
-    <p>-HTML<br></br>-CSS<br></br>-JavaScript<br></br>-React.js<br></br>-Node.js<br></br>-XML &amp; DITA<br></br>-Scrum &amp; Agile<br></br>-UX/UI Design</p>
+    <p>-HTML, XML, and DITA<br></br>-CSS and Bootstrap<br></br>-JavaScript and React.js<br></br>-ASP.NET<br></br>-SQL<br></br>-UX/UI and Responsive Design<br></br>-UX Writing and Research<br></br>-Usability Testing<br></br>-Agile Sprint Environment</p>
   </div>
   <div class="column one-third">
     <h3>Software Skills</h3>
-    <p>-Adobe Creative Cloud Suite (most experienced in Photoshop, InDesign, Framemaker, &amp; Illustrator)<br></br>-Drupal<br></br>-Trello, JIRA, &amp; Asana<br></br>-Google Analytics &amp; Google Data Studio<br></br>-ServiceNow &amp; Kace<br></br>-Wordpress, WIX, &amp; SquareSpace<br></br>-Microsoft 365 <br></br>-Sketch<br></br>-Knowledge Bases</p>
+    <p>-Drupal and Wordpress<br></br>-Microsoft 365 and Sharepoint<br></br>-Trello, JIRA, and Asana<br></br>-Mailchimp<br></br>-Sketch<br></br>-Adobe XD, Photoship, InDesign, Premier<br></br>-ServiceNow and Cherwell<br></br>-Google Analytics and Data Studio<br></br>-Knowledge Bases</p>
   </div>
   <div class="column one-third">
     <h3>Soft Skills</h3>
-    <p>-Project &amp; goal oriented<br></br>-Self-motivated worker<br></br>-Organized leader<br></br>-Collaborator &amp; innovator<br></br>-Writer &amp; communicator<br></br>-Problem solver<br></br>-End user focused</p>
+    <p>-Researcher and Documenter<br></br>-Project and goal oriented<br></br>-Self motivated worker and learner<br></br>-Writer and Communicator<br></br>-End user focused</p>
   </div>
 </div>
 
