@@ -237,6 +237,14 @@ let resumeData = {
     },
 
     {
+      "name": "Writing Studies Newsletter",
+      "description": "Bi-weekly newsletter written for undergraduate majors and minors in the Department of Writing Studies at the University of Minnesota. Created with Mailchimp.",
+      "imgurl": "images/newsletter.png",
+      "pdfurl": "https://emilyr47.github.io/Writing-Studies-Newsletter/"
+
+    },
+
+    {
       "name": "Yale Web Design Report",
       "description": "Report written to document the process of a web design project. Final website re-design built using HTML and CSS.",
       "imgurl": "images/intro.png",
