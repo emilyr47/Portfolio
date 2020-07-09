@@ -141,6 +141,15 @@ let resumeData = {
       "Location": "Orange City, IA",
       "Achievements": "Helped with the planning and success of the first annual All-N-Day of Giving and demonstrated leadership and experience on a team of student callers. Professionally communicated with respected college donors and alumni to reach fundraising and marketing goals."
     },
+    {
+      "CompanyName": "Newspaper Writer",
+      "specialization": "Northwestern College - The Beacon Student Newspaper",
+      "Start": "Sept 2017 -",
+      "End": "May 2018",
+      "Location": "Orange City, IA",
+      "Achievements": "Wrote weekly news articles to be published in The Beacon Student Newspaper. Writing the articles involved scheduling and coordinating weekly interviews, communicating with the newspaper editors, and writing articles between 500-700 words."
+    },
+
   ],
   "skillsDescription": "",
   "skills": [
@@ -241,6 +250,13 @@ let resumeData = {
       "description": "Bi-weekly newsletter written for undergraduate majors and minors in the Department of Writing Studies at the University of Minnesota. Created with Mailchimp.",
       "imgurl": "images/newsletter.png",
       "pdfurl": "https://emilyr47.github.io/Writing-Studies-Newsletter/"
+
+    },
+    {
+      "name": "The Beacon - Newspaper Articles",
+      "description": "Weekly news articles to be published in The Beacon Student Newspaper. Writing the articles involved scheduling and coordinating weekly interviews, communicating with the newspaper editors, and writing articles between 500-700 words.",
+      "imgurl": "images/beacon.png",
+      "pdfurl": "images/beacon.pdf"
 
     },
 
