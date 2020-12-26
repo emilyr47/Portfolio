@@ -31,18 +31,18 @@ let resumeData = {
     }
   ],
 
-  "blog": [
-    {
-      "description": "As you know, I am pursuing a degree in Technical Writing currently.  One of the challenges I have found when it comes to explaining my degree is that there is not a very well defined definition for what a technical writer does.  It’s not something like nursing where people immediately place you in a hospital caring for patients or a lawyer where everyone recalls images of Judge Judy and large paychecks (both very much stereotypes and not always the reality…..)",
-      "name": "What is Technical Writing",
-      "imgurl": "images/techwrit.png"
-    },
-    {
-      "description": "It’s kind of like a dump in the sky where everyone puts their stuff…The cloud is basically a storage unit for the internet…What the cloud actually is, is something smart that I don’t think I can understand…",
-      "name": "What Do People Really Think the Cloud is?",
-      "imgurl": "images/cloud.png",
-    }
-  ],
+  // "blog": [
+  //   {
+  //     "description": "As you know, I am pursuing a degree in Technical Writing currently.  One of the challenges I have found when it comes to explaining my degree is that there is not a very well defined definition for what a technical writer does.  It’s not something like nursing where people immediately place you in a hospital caring for patients or a lawyer where everyone recalls images of Judge Judy and large paychecks (both very much stereotypes and not always the reality…..)",
+  //     "name": "What is Technical Writing",
+  //     "imgurl": "images/techwrit.png"
+  //   },
+  //   {
+  //     "description": "It’s kind of like a dump in the sky where everyone puts their stuff…The cloud is basically a storage unit for the internet…What the cloud actually is, is something smart that I don’t think I can understand…",
+  //     "name": "What Do People Really Think the Cloud is?",
+  //     "imgurl": "images/cloud.png",
+  //   }
+  // ],
 
   "education": [
     {
@@ -68,27 +68,34 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "UX/UI/Web Designer and Developer",
+      "specialization": "Self-Employed/Freelance",
+      "Start": "Jul. 2019 -",
+      "End": "Present",
+      "Location": "Work from Home based in New Orleans, LA area",
+      "Achievements": "Creates and designs websites and UX/UI solutions for clients primarily using HTML, CSS, JavaScript, and React.js and mockup tools such as Sketch and Adobe CC. Projects include wireframes and user research, website re-design to fit usability heuristics, and coding websites, personal portfolios, and blogs from the ground up."
+    },
+    {
+      "CompanyName": "Document Specialist",
+      "specialization": "Mammotome",
+      "Start": "Oct. 2020 -",
+      "End": "Dec. 2020",
+      "Location": "Remote",
+      "Achievements": "Works with a team to save and extract document information and audit details using Q-Pulse."
+    },
+    {
       "CompanyName": "Technical Writer Intern",
       "specialization": "MAXIMUS",
       "Start": "May 2020 -",
-      "End": "Present",
+      "End": "Sep. 2020",
       "Location": "St. Paul, MN (Remote during COVID-19)",
       "Achievements": "Works with knowledge management to improve the knowledge base for the organization’s IT service desk and end users. Writes and edits user support documentation and how-tos according to a style guide and edits data and projects using MS Sharepoint, Power Automate, and MS 365."
     },
 
     {
-      "CompanyName": "UX/UI/Web Designer and Developer",
-      "specialization": "Self-Employed/Freelance",
-      "Start": "July 2019 -",
-      "End": "Present",
-      "Location": "Work from Home based in Minneapolis, MN",
-      "Achievements": "Creates and designs websites and UX/UI solutions for clients primarily using HTML, CSS, JavaScript, and React.js and mockup tools such as Sketch and Adobe CC. Projects include wireframes and user research, website re-design to fit usability heuristics, and coding websites, personal portfolios, and blogs from the ground up."
-    },
-
-    {
       "CompanyName": "Technology Help Specialist",
       "specialization": "University of Minnesota - Office of Information Technology",
-      "Start": "Jan 2020 -",
+      "Start": "Jan. 2020 -",
       "End": "May 2020",
       "Location": "Minneapolis, MN (Remote during COVID-19)",
       "Achievements": "Collaborated with a team of technology specialists to provide IT support and management in a large-scale, university environment. Regularly utilized a knowledge base, ServiceNow, ERP, and ITSM to solve hardware, software, internet, account, and University-wide technical problems while providing support to students, faculty, alumni, parents, and other affiliates. Supported students and faculty by creating positive interactions as the University transitioned to remote work during the COVID-19 pandemic."
@@ -96,47 +103,47 @@ let resumeData = {
     {
       "CompanyName": "Web Communications Intern",
       "specialization": "Lutheran Social Services of Minnesota",
-      "Start": "Sep 2019 -",
-      "End": "Dec 2019",
+      "Start": "Sep. 2019 -",
+      "End": "Dec. 2019",
       "Location": "St. Paul, MN",
       "Achievements": "Collaborated within a marketing/communications and web team by improving and maintaining the organization's Drupal website and services contact data. Also contributed to UX/UI discussions and social media performance analyzation through participating in external contractor meetings and work sessions."
     },
     {
       "CompanyName": "Educational Technology Developer",
       "specialization": "University of Minnesota - College of Science and Engineering",
-      "Start": "Sep 2019 -",
-      "End": "Nov 2019",
+      "Start": "Sep. 2019 -",
+      "End": "Nov. 2019",
       "Location": "Minneapolis, MN",
       "Achievements": "Collaborated with a team of developers to build startup educational tools primarily using React.js and other in-demand and innovative web technologies. Contributed as both a JavaScript developer and as a UX/UI and logo designer."
     },
     {
       "CompanyName": "Web Design Intern",
       "specialization": "Minnesota Historical Society",
-      "Start": "Jun 2019 -",
-      "End": "Aug 2019",
+      "Start": "Jun. 2019 -",
+      "End": "Aug. 2019",
       "Location": "St. Paul, MN",
       "Achievements": "Improved business intelligence and process improvement through prototyping Scrum/Agile workflow in modern team management tools. Also collaborated with a web team on frontend coding and design projects."
     },
     {
       "CompanyName": "Peer Advisor for Technical Writing & Communication",
       "specialization": "University of Minnesota - Department of Writing Studies",
-      "Start": "Feb 2019 -",
-      "End": "Aug 2019",
+      "Start": "Feb. 2019 -",
+      "End": "Aug. 2019",
       "Location": "Minneapolis, MN",
       "Achievements": "Implemented new ways to digitatize the Technical Writing and Communication department by building inner-communication apps and student tutorials. Additionally, modernized and updated department advertising and informational documents using Adobe CC."
     },
     {
       "CompanyName": "Web Technical Assistant/Developer",
       "specialization": "University of Minnesota - College of Liberal Arts Web Team",
-      "Start": "Oct 2018 -",
-      "End": "Aug 2019",
+      "Start": "Oct. 2018 -",
+      "End": "Aug. 2019",
       "Location": "Minneapolis, MN",
       "Achievements": "Designed and maintained Drupal websites for various departments within the College of Liberal Arts. Regularly created wireframes, planning and training documents, and information web pages to solve problems and collaborate on technology-integrated solutions. Conducted semi-monthly Drupal training sessions for department web editors, staff, and faculty and responded to web assistance incidents and tickets."
     },
     {
       "CompanyName": "Senior Associate/Caller",
       "specialization": "Northwestern College - Phonathon",
-      "Start": "Oct 2017 -",
+      "Start": "Oct. 2017 -",
       "End": "May 2018",
       "Location": "Orange City, IA",
       "Achievements": "Helped with the planning and success of the first annual All-N-Day of Giving and demonstrated leadership and experience on a team of student callers. Professionally communicated with respected college donors and alumni to reach fundraising and marketing goals."
@@ -144,7 +151,7 @@ let resumeData = {
     {
       "CompanyName": "Newspaper Writer",
       "specialization": "Northwestern College - The Beacon Student Newspaper",
-      "Start": "Sept 2017 -",
+      "Start": "Sep. 2017 -",
       "End": "May 2018",
       "Location": "Orange City, IA",
       "Achievements": "Wrote weekly news articles to be published in The Beacon Student Newspaper. Writing the articles involved scheduling and coordinating weekly interviews, communicating with the newspaper editors, and writing articles between 500-700 words."
